@@ -1,0 +1,48 @@
+{
+  "ProjectName": "Meios Digitais CAIXA App",
+  "ProjectGuid": "e58a84f0-ad1a-49cc-9c86-b209c2a2701c",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.MeiosDigitaisCAIXAApp",
+  "DisplayName": "Meios Digitais CAIXA App",
+  "Author": "",
+  "Description": "Meios Digitais CAIXA App",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{ce98d56f-bde9-464e-b8fc-60d9e5959e37}",
+  "WP8ProductID": "{c73f47f8-fa97-432f-9809-5f263a0ba8b7}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.MeiosDigitaisCAIXAApp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.network-information"
+  ]
+}
